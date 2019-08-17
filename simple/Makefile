@@ -5,7 +5,7 @@ usage:
 	@echo "usage: make [run]"
 
 run r:
-	@echo "> make (run) [1|2]"
+	@echo "> make (run) [1|2|3]"
 r1:
 	docker-compose run app go env
 r2:
