@@ -1,5 +1,7 @@
 # docker-example
 
+Docker and docker-compose examples to practice
+
 ### Information
 - 2019/08/11 [Building Multistage Dockerfiles for Go and Deploying to DigitalOcean](https://www.youtube.com/watch?v=LOuFYTYVmIg) - Youtube
 - 2019/05/01 [Developer a Go app with Docker Compose](https://www.firehydrant.io/blog/developer-a-go-app-with-docker-compose/)
