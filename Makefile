@@ -28,7 +28,7 @@ run-test rt:
 git g:
 	@echo "make (git:g) [update|store]"
 git-update gu:
-	git add .gitignore *.md Makefile compose/
+	git add .gitignore *.md Makefile simple/ compose/
 	git commit -m "Initial commit to start coding"
 	git push
 git-store gs:
