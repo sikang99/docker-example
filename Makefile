@@ -29,7 +29,7 @@ git g:
 	@echo "make (git:g) [update|store]"
 git-update gu:
 	git add .gitignore *.md Makefile simple/ compose/
-	git commit -m "add simple/ to use docker-compose"
+	git commit -a -m "add simple/ to use docker-compose"
 	git push
 git-store gs:
 	git config credential.helper store
