@@ -13,3 +13,6 @@ r2:
 r3:
 	docker-compose up
 
+open page:
+	open https://www.firehydrant.io/blog/developer-a-go-app-with-docker-compose
+
