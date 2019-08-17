@@ -5,6 +5,7 @@ Docker and docker-compose examples to practice
 ### Information
 - 2019/08/11 [Building Multistage Dockerfiles for Go and Deploying to DigitalOcean](https://www.youtube.com/watch?v=LOuFYTYVmIg) - Youtube
 - 2019/05/01 [Developer a Go app with Docker Compose](https://www.firehydrant.io/blog/developer-a-go-app-with-docker-compose/)
+- 2019/03/19 [Docker tips and tricks for your Go projects](https://marcofranssen.nl/docker-tips-and-tricks-for-your-go-projects/) - multi-stage docker, docker-compose
 - 2019/01/20 [Docker Compose: Defining and running multi-container docker applications](https://www.callicoder.com/docker-compose-multi-container-orchestration-golang/)
 - 2019/01/17 [Using Docker for Node.js in Development and Production](https://dev.to/alex_barashkov/using-docker-for-nodejs-in-development-and-production-3cgp)
 - 2019/01/03 [Go Docker dev environment with Go Modules and live code reloading](https://threedots.tech/post/go-docker-dev-environment-with-go-modules-and-live-code-reloading/)
