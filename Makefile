@@ -28,8 +28,8 @@ run-test rt:
 git g:
 	@echo "make (git:g) [update|store]"
 git-update gu:
-	git add .gitignore *.md Makefile simple/ compose/
-	git commit -a -m "add simple/ to use docker-compose"
+	git add .
+	git commit -a -m "update contents"
 	git push
 git-store gs:
 	git config credential.helper store
