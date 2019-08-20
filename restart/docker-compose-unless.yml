@@ -1,0 +1,8 @@
+version: "3.7"
+
+services:
+    alpine:
+        image: alpine:3.8
+        command: sleep 1; exit 1
+        restart: unless-stopped
+
