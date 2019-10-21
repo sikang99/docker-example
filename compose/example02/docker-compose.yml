@@ -1,0 +1,8 @@
+version: "2"
+
+services:
+    app:
+        image: golang:1.13.1-alpine
+        volumes:
+            - .:/go/src/example02
+        working_dir: /go/src/example02
