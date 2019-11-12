@@ -17,6 +17,7 @@ Docker and docker-compose examples to practice
 
 
 ### History (Korean)
+- 2019/05/10 [해결된 줄 알았더니...알파인 리눅스 도커에서 3년된 취약점 재발견](https://www.boannews.com/media/view.asp?idx=79389)
 - 2019/01/09 [Dockerfile 작성부터 이미지 배포까지 간단 요약](https://rinae.dev/posts/docker-101)
 - 2018/03/20 [간단한 Docker + Mongodb/Redis/Nginx 설정](https://gompro.postype.com/post/1735800)
 - 2018/01/01 [Docker 에서 표준적으로 쓰이는 Apline Linux 는 뭔가요?](https://dreamholic.tistory.com/92)
