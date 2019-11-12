@@ -17,6 +17,7 @@ Docker and docker-compose examples to practice
 
 
 ### History (Korean)
+- 2019/07/22 [Docker: 최신 alpine (3.9?) 에서 libcrypto.so.1.0.0 (missing) 오류 발생 시](http://mcchae.egloos.com/11334634)
 - 2019/05/10 [해결된 줄 알았더니...알파인 리눅스 도커에서 3년된 취약점 재발견](https://www.boannews.com/media/view.asp?idx=79389)
 - 2019/01/09 [Dockerfile 작성부터 이미지 배포까지 간단 요약](https://rinae.dev/posts/docker-101)
 - 2018/03/20 [간단한 Docker + Mongodb/Redis/Nginx 설정](https://gompro.postype.com/post/1735800)
