@@ -2,6 +2,7 @@
 Docker and docker-compose examples to practice
 
 ### History
+- 2019/02/26 [Moving away from Alpine](https://dev.to/asyazwan/moving-away-from-alpine-30n4) - [Minimal Ubuntu, on public clouds and Docker Hub](https://ubuntu.com/blog/minimal-ubuntu-released)
 - 2019/08/11 [Building Multistage Dockerfiles for Go and Deploying to DigitalOcean](https://www.youtube.com/watch?v=LOuFYTYVmIg) - Youtube
 - 2019/05/01 [Developer a Go app with Docker Compose](https://www.firehydrant.io/blog/developer-a-go-app-with-docker-compose/)
 - 2019/03/19 [Docker tips and tricks for your Go projects](https://marcofranssen.nl/docker-tips-and-tricks-for-your-go-projects/) - multi-stage docker, docker-compose
