@@ -1,8 +1,7 @@
 # docker-example
-
 Docker and docker-compose examples to practice
 
-### Information
+### History
 - 2019/08/11 [Building Multistage Dockerfiles for Go and Deploying to DigitalOcean](https://www.youtube.com/watch?v=LOuFYTYVmIg) - Youtube
 - 2019/05/01 [Developer a Go app with Docker Compose](https://www.firehydrant.io/blog/developer-a-go-app-with-docker-compose/)
 - 2019/03/19 [Docker tips and tricks for your Go projects](https://marcofranssen.nl/docker-tips-and-tricks-for-your-go-projects/) - multi-stage docker, docker-compose
@@ -15,9 +14,17 @@ Docker and docker-compose examples to practice
 - 2018/11/05 [The Go 1.11 web service Dockerfile](https://medium.com/@pierreprinetti/the-go-1-11-dockerfile-a3218319d191)
 - 2018/08/06 [Advanced Docker Compose template for Golang](https://medium.com/raidboss/advanced-docker-compose-template-for-golang-8dde3f5ed595)
 - 2017/09/01 [Docker Tip #19: How to Ignore Files from Your Docker Images](https://nickjanetakis.com/blog/docker-tip-19-how-to-ignore-files-from-your-docker-images)
+
+
+### History (Korean)
+- 2019/01/09 [Dockerfile 작성부터 이미지 배포까지 간단 요약](https://rinae.dev/posts/docker-101)
+
+
+### Information
 - [docker-compose cheatsheet](https://devhints.io/docker-compose)
 - [Compose file version 3 reference](https://docs.docker.com/compose/compose-file/)
 - [Docker Tutorials](https://tecadmin.net/tutorial/docker/docker-tutorials/)
+
 
 ### Open Source
 - [**callicoder/go-docker-compose**](https://github.com/callicoder/go-docker-compose) - Golang Docker Compose Example
