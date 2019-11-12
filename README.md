@@ -36,4 +36,4 @@ Docker and docker-compose examples to practice
 - [**callicoder/go-docker-compose**](https://github.com/callicoder/go-docker-compose) - Golang Docker Compose Example
 - [ThreeDotsLabs/watermill](go get github.com/ThreeDotsLabs/watermill)
 - [**collabnix/dockerlabs**](https://github.com/collabnix/dockerlabs)
-
+- [alpinelinux/docker-alpine](https://github.com/alpinelinux/docker-alpine) - Official Alpine Linux Docker image. Win at minimalism!
