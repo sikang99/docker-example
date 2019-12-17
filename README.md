@@ -5,6 +5,7 @@ Docker and docker-compose examples to practice
 ### History
 - 2019/11/14 [Is Docker in Trouble?](https://start.jcolemorrison.com/is-docker-in-trouble/)
 - 2019/11/12 [Red Hat Introduces open source Project Quay container registry](https://www.redhat.com/en/blog/red-hat-introduces-open-source-project-quay-container-registry)
+- 2019/10/22 [Docker for Go Development with Hot Reload](https://levelup.gitconnected.com/docker-for-go-development-a27141f36ba9)
 - 2019/02/26 [Moving away from Alpine](https://dev.to/asyazwan/moving-away-from-alpine-30n4) - [Minimal Ubuntu, on public clouds and Docker Hub](https://ubuntu.com/blog/minimal-ubuntu-released)
 - 2019/08/11 [Building Multistage Dockerfiles for Go and Deploying to DigitalOcean](https://www.youtube.com/watch?v=LOuFYTYVmIg) - Youtube
 - 2019/05/01 [Developer a Go app with Docker Compose](https://www.firehydrant.io/blog/developer-a-go-app-with-docker-compose/)
@@ -42,3 +43,4 @@ Docker and docker-compose examples to practice
 - [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill)
 - [**collabnix/dockerlabs**](https://github.com/collabnix/dockerlabs)
 - [alpinelinux/docker-alpine](https://github.com/alpinelinux/docker-alpine) - Official Alpine Linux Docker image. Win at minimalism!
+- [dirk94/go-docker](https://github.com/dirk94/go-docker) - Go API running in a docker container
