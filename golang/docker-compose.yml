@@ -1,0 +1,24 @@
+version: '3.5'
+services:
+    app_dev:
+        volumes:
+            - .:/vap/app:delegated
+        build:
+        context: ./
+        dockerfile: Dockerfile
+        target: dev
+        command: "scripts/start-dev.sh"
+        environment:
+        APP_PORT: 8282
+        ports:
+            - "8282:8282"
+
+    app_prod:
+        build:
+        context: ./
+        dockerfile: Dockerfile
+        target: prod
+        environment:
+        APP_PORT: 8283
+        ports:
+            - "8283:8283"

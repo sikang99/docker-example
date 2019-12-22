@@ -1,6 +1,10 @@
 ## docker-example/golang
 
 
+### History
+- 2019/07/31 [Lean Golang Docker Images Using Multi-Stage Builds](https://medium.com/tourradar/lean-golang-docker-images-using-multi-stage-builds-1015a6b4d1d1)
+
+
 ### Information
 - [Create a Docker image for GO](https://codefresh.io/docs/docs/learn-by-example/golang/golang-hello-world/)
 
