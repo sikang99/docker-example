@@ -49,4 +49,7 @@ Docker and docker-compose examples to practice
 - [bastman/docker-cleanup-resources.md](https://gist.github.com/bastman/5b57ddb3c11942094f8d0a97d461b430) - docker cleanup guide: containers, images, volumes, networks
 - [Blitznote/apt-image](https://github.com/Blitznote/apt-image) - 📦 minimal Ubuntu for containers, with curl and support for TLSv1.3
 
+### Slides
+- 2019 [**DCSF19 Dockerfile Best Practices**](https://www.slideshare.net/Docker/dcsf19-dockerfile-best-practices)
+
 
