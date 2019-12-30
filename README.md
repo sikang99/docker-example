@@ -46,4 +46,6 @@ Docker and docker-compose examples to practice
 - [alpinelinux/docker-alpine](https://github.com/alpinelinux/docker-alpine) - Official Alpine Linux Docker image. Win at minimalism!
 - [dirk94/go-docker](https://github.com/dirk94/go-docker) - Go API running in a docker container
 - [bastman/docker-cleanup-resources.md](https://gist.github.com/bastman/5b57ddb3c11942094f8d0a97d461b430) - docker cleanup guide: containers, images, volumes, networks
+- [Blitznote/apt-image](https://github.com/Blitznote/apt-image) - 📦 minimal Ubuntu for containers, with curl and support for TLSv1.3
+
 
