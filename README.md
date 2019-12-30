@@ -33,6 +33,7 @@ Docker and docker-compose examples to practice
 
 
 ### Information
+- [**Awesome-docker**](https://awesome-docker.netlify.com/) - A curated list of Docker resources and projects
 - [docker-compose cheatsheet](https://devhints.io/docker-compose)
 - [Compose file version 3 reference](https://docs.docker.com/compose/compose-file/)
 - [Docker Tutorials](https://tecadmin.net/tutorial/docker/docker-tutorials/)
