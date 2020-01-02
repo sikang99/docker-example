@@ -39,6 +39,8 @@ compose-down cd:
 open page:
 	xdg-open https://medium.com/raidboss/advanced-docker-compose-template-for-golang-8dde3f5ed595
 #-----------------------------------------------------------------
+git-update gu:
+	cd ..; make gu
 
 
 
