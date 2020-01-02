@@ -3,6 +3,7 @@ Docker and docker-compose examples to practice
 
 
 ### History
+- 2019/11/19 [7 Cases When You Should Not Use Docker](https://www.freecodecamp.org/news/7-cases-when-not-to-use-docker/)
 - 2019/11/14 [Is Docker in Trouble?](https://start.jcolemorrison.com/is-docker-in-trouble/)
 - 2019/11/12 [Red Hat Introduces open source Project Quay container registry](https://www.redhat.com/en/blog/red-hat-introduces-open-source-project-quay-container-registry)
 - 2019/10/22 [Docker for Go Development with Hot Reload](https://levelup.gitconnected.com/docker-for-go-development-a27141f36ba9)
@@ -12,6 +13,7 @@ Docker and docker-compose examples to practice
 - 2019/05/01 [Developer a Go app with Docker Compose](https://www.firehydrant.io/blog/developer-a-go-app-with-docker-compose/)
 - 2019/04/10 [Build Small Golang Docker Containers](https://sysadmins.co.za/build-small-golang-docker-containers/)
 - 2019/03/19 [Docker tips and tricks for your Go projects](https://marcofranssen.nl/docker-tips-and-tricks-for-your-go-projects/) - multi-stage docker, docker-compose
+- 2019/02/26 [Stories of My Experiments with "Distroless" Containers](https://www.abhaybhargav.com/stories-of-my-experiments-with-distroless-containers/)
 - 2019/01/20 [Docker Compose: Defining and running multi-container docker applications](https://www.callicoder.com/docker-compose-multi-container-orchestration-golang/)
 - 2019/01/17 [Using Docker for Node.js in Development and Production](https://dev.to/alex_barashkov/using-docker-for-nodejs-in-development-and-production-3cgp)
 - 2019/01/03 [Go Docker dev environment with Go Modules and live code reloading](https://threedots.tech/post/go-docker-dev-environment-with-go-modules-and-live-code-reloading/)
