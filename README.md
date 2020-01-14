@@ -53,6 +53,10 @@ Docker and docker-compose examples to practice
 - [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
 
 
+### Docker Hub
+- [willprice/nvidia-ffmpeg/](https://hub.docker.com/r/willprice/nvidia-ffmpeg/) - NVIDIA Hardware Accelerated FFmpeg build 
+
+
 ### Slides
 - 2019 [**DCSF19 Dockerfile Best Practices**](https://www.slideshare.net/Docker/dcsf19-dockerfile-best-practices)
 
