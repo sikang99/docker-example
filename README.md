@@ -27,6 +27,7 @@ Docker and docker-compose examples to practice
 
 ### History (MacOS)
 - 2018/12/19 [Access MacOS host from a docker container](https://medium.com/@balint_sera/access-macos-host-from-a-docker-container-e0c2d0273d7f)
+- 2018/03/31 [Access host from a docker container](https://dev.to/bufferings/access-host-from-a-docker-container-4099)
 
 
 ### History (Korean)
@@ -55,6 +56,7 @@ Docker and docker-compose examples to practice
 - [bastman/docker-cleanup-resources.md](https://gist.github.com/bastman/5b57ddb3c11942094f8d0a97d461b430) - docker cleanup guide: containers, images, volumes, networks
 - [Blitznote/apt-image](https://github.com/Blitznote/apt-image) - 📦 minimal Ubuntu for containers, with curl and support for TLSv1.3
 - [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
+- [bufferings/docker-access-host](https://github.com/bufferings/docker-access-host)
 
 
 ### Docker Hub
