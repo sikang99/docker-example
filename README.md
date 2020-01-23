@@ -25,6 +25,10 @@ Docker and docker-compose examples to practice
 - 2017/09/01 [Docker Tip #19: How to Ignore Files from Your Docker Images](https://nickjanetakis.com/blog/docker-tip-19-how-to-ignore-files-from-your-docker-images)
 
 
+### History (MacOS)
+- 2018/12/19 [Access MacOS host from a docker container](https://medium.com/@balint_sera/access-macos-host-from-a-docker-container-e0c2d0273d7f)
+
+
 ### History (Korean)
 - 2019/07/22 [Docker: 최신 alpine (3.9?) 에서 libcrypto.so.1.0.0 (missing) 오류 발생 시](http://mcchae.egloos.com/11334634)
 - 2019/05/10 [해결된 줄 알았더니...알파인 리눅스 도커에서 3년된 취약점 재발견](https://www.boannews.com/media/view.asp?idx=79389)
