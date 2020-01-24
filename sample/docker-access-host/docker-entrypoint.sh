@@ -8,5 +8,5 @@ if [ $? -ne 0 ]; then
 fi
 
 # Here is the original entry point.
-curl -sS host.docker.internal:8888
+curl -sS $HOST_DOMAIN:8888
 cat /etc/hosts

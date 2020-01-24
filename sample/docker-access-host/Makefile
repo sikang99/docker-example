@@ -4,8 +4,11 @@
 NAME=demo
 IMAGE=docker-access-host
 
+usage:
+	@echo "usage: make [docker]"
+
 docker d:
-	@echo "> make (docker) [build|run|kill|clean]"
+	@echo "> make (docker) [build|run|kill|clean|clobber]"
 
 docker-build db:
 	docker build -t $(IMAGE):demo .
@@ -25,7 +28,7 @@ docker-clobber:
 	-make docker-clean
 	docker rmi $(IMAGE):demo
 
-niginx-start ns::
+niginx-run nr:
 	docker run -d -p 8888:80 --rm --name nginx nginx
 niginx-test nt:
 	curl localhost:8888
