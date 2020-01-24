@@ -30,3 +30,7 @@ niginx-start ns::
 niginx-test nt:
 	curl localhost:8888
 
+git-update gu:
+	cd ../..; make gu
+
+
