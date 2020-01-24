@@ -5,23 +5,28 @@ NAME=demo
 IMAGE=docker-access-host
 
 docker d:
-	@echo "> make (docker) [build|run|kill]"
+	@echo "> make (docker) [build|run|kill|clean]"
 
 docker-build db:
-	docker build -t docker-access-host:demo .
+	docker build -t $(IMAGE):demo .
+	docker images $(IMAGE)
 
 docker-run dr:
-	docker run --rm --name $(NAME) docker-access-host:demo
+	docker run --rm --name $(NAME) $(IMAGE):demo
 
 docker-kill dk:
-	docker stop $(NAME) && docker rm $(NAME)
-	#docker kill $(NAME)
+	docker kill $(NAME)
+	#docker stop $(NAME) && docker rm $(NAME)
+
+docker-clean dc::
+	docker system prune -f
 
 docker-clobber:
-	docker system prune -f
-	docker rmi docker-access-host:demo
+	-make docker-clean
+	docker rmi $(IMAGE):demo
 
 niginx-start ns::
-	docker run -d -p 8888:80 --rm nginx
+	docker run -d -p 8888:80 --rm --name nginx nginx
+niginx-test nt:
 	curl localhost:8888
 
