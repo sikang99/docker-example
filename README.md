@@ -36,20 +36,22 @@ Docker and docker-compose examples to practice
 - 2019/05/10 [해결된 줄 알았더니...알파인 리눅스 도커에서 3년된 취약점 재발견](https://www.boannews.com/media/view.asp?idx=79389)
 - 2019/03/22 [Alpine Linux에 Docker와 AWS CLI 설치하기](https://xo.dev/install-docker-and-aws-cli-on-alpine-linux/)
 - 2019/01/09 [Dockerfile 작성부터 이미지 배포까지 간단 요약](https://rinae.dev/posts/docker-101)
+- 2019/01/06 [번역: 확장성 있고, 이식성 있는 도커 컨테이너 네트워크 설계](https://ziwon.dev/post/designing-scalable-portable-docker-container-networks/)
 - 2018/03/20 [간단한 Docker + Mongodb/Redis/Nginx 설정](https://gompro.postype.com/post/1735800)
 - 2018/01/01 [Docker 에서 표준적으로 쓰이는 Apline Linux 는 뭔가요?](https://dreamholic.tistory.com/92)
 
 
 ### Information
 - [**Awesome-docker**](https://awesome-docker.netlify.com/) - A curated list of Docker resources and projects
-- [docker-compose cheatsheet](https://devhints.io/docker-compose)
 - [Compose file version 3 reference](https://docs.docker.com/compose/compose-file/)
 - [Docker Tutorials](https://tecadmin.net/tutorial/docker/docker-tutorials/)
 - [How to build Your First Alpine Docker Image and Push it to DockerHub](http://dockerlabs.collabnix.com/beginners/building-your-first-alpine-container.html)
+- [docker-compose cheatsheet](https://devhints.io/docker-compose)
 - [Docker CLI cheatsheet](https://devhints.io/docker)
     - [**wsargent/docker-cheat-sheet**](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
 - [**Docker Interview Questions**](http://dockerlabs.collabnix.com/docker/docker-interview-questions.html)
     - [collabnix/dockerlabs](https://github.com/collabnix/dockerlabs) - Docker - Beginners | Intermediate | Advanced
+- [Docker Swarm Reference Architecture: Exploring Scalable, Portable Docker Container Networks](https://success.docker.com/article/networking)
 
 
 ### Open Source
