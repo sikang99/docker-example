@@ -27,7 +27,7 @@ Docker and docker-compose examples to practice
 
 ### History (MacOS)
 - 2018/12/19 [Access MacOS host from a docker container](https://medium.com/@balint_sera/access-macos-host-from-a-docker-container-e0c2d0273d7f)
-- 2018/11/12 [Docker on macOS: Getting Started](https://www.raywenderlich.com/9159-docker-on-macos-getting-started)
+- 2018/11/12 [**Docker on macOS: Getting Started**](https://www.raywenderlich.com/9159-docker-on-macos-getting-started)
 - 2018/03/31 [Access host from a docker container](https://dev.to/bufferings/access-host-from-a-docker-container-4099)
 
 
