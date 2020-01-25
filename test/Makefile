@@ -3,7 +3,7 @@
 #
 NAME=test
 IMAGE=test/image
-
+# --------------------------------------------------------------------
 usage:
 	@echo "usage: make [docker]"
 
@@ -22,8 +22,6 @@ docker-test dt:
 docker-clean dc:
 	docker system prune -f
 	docker rmi $(IMAGE)
-
-
-
+# --------------------------------------------------------------------
 git-update gu:
 	cd ..; make gu
