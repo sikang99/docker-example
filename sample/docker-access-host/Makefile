@@ -22,6 +22,7 @@ docker-kill dk:
 	#docker stop $(NAME) && docker rm $(NAME)
 
 docker-clean dc::
+	docker rm $(docker ps -a -q -f status=exited)
 	docker system prune -f
 
 docker-clobber:
