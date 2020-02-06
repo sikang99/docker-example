@@ -7,6 +7,7 @@ Docker and docker-compose examples to practice
 - 2019/11/14 [Is Docker in Trouble?](https://start.jcolemorrison.com/is-docker-in-trouble/)
 - 2019/11/12 [Red Hat Introduces open source Project Quay container registry](https://www.redhat.com/en/blog/red-hat-introduces-open-source-project-quay-container-registry)
 - 2019/10/22 [Docker for Go Development with Hot Reload](https://levelup.gitconnected.com/docker-for-go-development-a27141f36ba9)
+- 2019/09/12 [How To Remove Docker Containers, Images, Volumes, and Networks](https://linuxize.com/post/how-to-remove-docker-images-containers-volumes-and-networks/)
 - 2019/02/26 [Moving away from Alpine](https://dev.to/asyazwan/moving-away-from-alpine-30n4) - [Minimal Ubuntu, on public clouds and Docker Hub](https://ubuntu.com/blog/minimal-ubuntu-released)
 - 2019/08/11 [Building Multistage Dockerfiles for Go and Deploying to DigitalOcean](https://www.youtube.com/watch?v=LOuFYTYVmIg) - Youtube
 - 2019/05/23 [Speedup your Docker images with multi-stage builds](https://dev.to/fgriberi/speedup-your-docker-images-with-multi-stage-builds-1ipd)
